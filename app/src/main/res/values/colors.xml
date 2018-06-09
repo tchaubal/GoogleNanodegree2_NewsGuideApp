@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d2102a</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#228422</color>
+    <color name="title">#263499</color>
+    <color name="section">#e40c1b</color>
+    <color name="date">#4b7818</color>
+    <color name="author">#e1dfda</color>
+</resources>

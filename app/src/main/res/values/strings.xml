@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewsGuide</string>
+    <string name="title">Title</string>
+    <string name="section">Section</string>
+    <string name="date">Publication Date</string>
+    <string name="author">Author</string>
+</resources>
